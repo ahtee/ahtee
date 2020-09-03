@@ -20,6 +20,10 @@ Tea ☕, PC Gaming 🖥️, MOBAs 🗺️
 - 📧 benottedev@gmail.com
 - ahtee#2109 Discord
 
+## 2020 Goals
+- 🛬 Land job in Frontend/JavaScript
+- More involvement in Open Source. 📖 Read more code!
+
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
