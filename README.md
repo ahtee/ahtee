@@ -18,6 +18,7 @@ Tea ☕, PC Gaming 🖥️, MOBAs 🗺️
 ### 🤙 Contact
 - 🐦 [@bencotte](https://www.twitter.com/bencotte)
 - 📧 benottedev@gmail.com
+- ahtee#2109 Discord
 
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
