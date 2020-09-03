@@ -1,7 +1,6 @@
 ### Hello there 👋🙂
 
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 [@bencotte](https://www.twitter.com/bencotte) on twitter, email is under my profile picture
 - 👦 Pronouns: He/Him
 - ⚡ Fun fact: _Homeschooled_ from 1st grade to 12th grade (US), then attended [NKU](https://www.nku.edu) the fall of 2010
   - ☕ Prefers English Breakfast Tea over Coffee
@@ -15,6 +14,10 @@
 ### Other Interests
 Skateboarding 🛹, Art 🎭🖼️, Music 🎧, Drums 🥁, Fashion 👕, Shoes 👟, Programming 👨‍💻, Web Sites 🕸️, Soccer ⚽,
 Tea ☕, PC Gaming 🖥️, MOBAs 🗺️
+
+### 🤙 Contact
+- 🐦 [@bencotte](https://www.twitter.com/bencotte)
+- 📧 [benottedev@gmail.com](mailto:benottedev@gmail.com)
 
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
