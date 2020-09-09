@@ -1,14 +1,7 @@
-![](https://www.hotelcaliforniacincinnati.com/wp-content/uploads/2019/09/homepage-banner-wide.jpg)
+![Cincinnati](https://www.hotelcaliforniacincinnati.com/wp-content/uploads/2019/09/homepage-banner-wide.jpg)
 
-### @bencotte
-
-- 👦 Pronouns: He/Him
-- ⚡ Fun fact: _Homeschooled_ from 1st grade to 12th grade (US), then attended [NKU](https://www.nku.edu) the fall of 2010
-  - ☕ Prefers English Breakfast Tea over Coffee
-
-## 2020 Goals 🥅⚽
-- 🛬 Land job in Frontend/JavaScript
-- More involvement in Open Source. 📖 Read more code! ✅
+- 🕊️ [@bencotte](https://www.twitter.com/bencotte)
+- 📫 Email benottedev@gmail.com
 
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
