@@ -1,8 +1,5 @@
 ![Cincinnati](https://www.hotelcaliforniacincinnati.com/wp-content/uploads/2019/09/homepage-banner-wide.jpg)
 
-- 🕊️ [@bencotte](https://www.twitter.com/bencotte)
-- 📫 Email benottedev@gmail.com
-
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🕊️ [@bencotte](https://www.twitter.com/bencotte)
+- 📫 Email benottedev@gmail.com
 -->
