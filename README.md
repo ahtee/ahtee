@@ -12,6 +12,7 @@ let enjoyableHobbies = ["video games at home or arcade", "sports games or watch 
 - [![](https://img.shields.io/badge/-duolingo-success)](https://www.duolingo.com/profile/Ahteezy)
 - [![](https://img.shields.io/badge/-Test%20Automation%20U-17a2b8)](https://testautomationu.applitools.com/me.html#ahtee)
 - [soundcloud](https://soundcloud.com/ahteezy) / [spotify](https://open.spotify.com/user/ahteezy)
+- [steam](https://steamcommunity.com/id/ahtee/)
 
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
