@@ -8,6 +8,10 @@ I am a Software Developer who is interested in `["the JavaScript ecosystem", "Na
 let enjoyableHobbies = ["video games at home or arcade", "sports games or watch parties", "local concerts", "weather rain or shine", "trying new foods and beers", "culure and food festivals", "learning German", "electronic music"]
 ```
 
+## 2023
+### Changes
+In 2023 I plan to be more achievement oriented in most things I do, To finish any task to completion.
+
 ### Interesting links:
 - [![](https://img.shields.io/badge/-duolingo-success)](https://www.duolingo.com/profile/Ahteezy)
 - [![](https://img.shields.io/badge/-Test%20Automation%20U-17a2b8)](https://testautomationu.applitools.com/me.html#ahtee)
