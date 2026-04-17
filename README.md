@@ -12,13 +12,14 @@
 > > - [![](https://img.shields.io/badge/-Test%20Automation%20U-17a2b8)](https://testautomationu.applitools.com/me.html#ahtee)
 > > - [![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/otteben)
 
+<!--
 > music
 > > - [![](https://img.shields.io/badge/Spotify-green)](https://open.spotify.com/user/ahteezy)
 > > - [![](https://img.shields.io/badge/SoundCloud-orange)](https://soundcloud.com/4500006)
 
 > games
 > > - [![](https://img.shields.io/badge/Steam-gray)](https://steamcommunity.com/id/ahtee/)
-
+-->
 <!--
 **ahtee/ahtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
