@@ -1,5 +1,5 @@
 ## private github contributions
-<img width="765" height="193" alt="Screenshot 2026-04-17 at 7 54 02 AM" src="https://github.com/user-attachments/assets/9ac01d49-dafa-4390-8b95-9dc4b707495f" />
+<img width="759" height="200" alt="Screenshot 2026-05-08 at 10 52 05 AM" src="https://github.com/user-attachments/assets/ea11b1c7-6d77-4fa5-935b-bb585f45019e" />
 <img width="375" height="319" alt="Screenshot 2026-04-17 at 7 54 07 AM" src="https://github.com/user-attachments/assets/3c74cade-3992-4630-8e93-9227dd280935" />
 
 
