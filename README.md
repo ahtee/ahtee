@@ -11,6 +11,7 @@
 > > - [![](https://img.shields.io/badge/freeCodeCamp-green)](https://www.freecodecamp.org/ahtee)
 > > - [![](https://img.shields.io/badge/-Test%20Automation%20U-17a2b8)](https://testautomationu.applitools.com/me.html#ahtee)
 > > - [![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/otteben)
+> > - [![](https://img.shields.io/badge/-GitLab-orange)](https://gitlab.com/ahtee)
 
 <!--
 > music
